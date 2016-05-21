@@ -112,11 +112,11 @@ span{
 }
 .next-page{
 	float: right;
-	color:#FF69B4;
+	color:#000;
 }
 .previous-page{
 	float: left;
-	color:#FF69B4;
+	color:#000;
 }
 .scroll-top{
 	padding-top: 10px;
@@ -124,6 +124,7 @@ span{
 	display: block;
 	text-align: center;
 	cursor: pointer;
+	color:#6699CC;
 }
 .img-portfolio{
 	display: block;
